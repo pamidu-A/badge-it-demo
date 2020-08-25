@@ -12,4 +12,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
           badges: 'license,version,github_stars'
-          badge_style: 'flat-square'
+          badge-style: 'flat-square'
